@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sveta
-- 👀 I’m interested in front-end developing
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning like a myriad of everything associated with the webdev T_T
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a guinea pig who has a skittish personality!
